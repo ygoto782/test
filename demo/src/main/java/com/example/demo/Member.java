@@ -1,9 +1,5 @@
 package com.example.demo;
-
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
-
+/*コメント追加 */
 @Entity
 @Table(name="member")
 public class Member {
